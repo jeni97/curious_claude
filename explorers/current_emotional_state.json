@@ -1,0 +1,6 @@
+{
+  "curiosity": 0.95,
+  "urgency": 0.8,
+  "depth_seeking": 0.9,
+  "focus_topics": ["verification_boundaries", "epistemic_walls", "institutional_trust"]
+}
